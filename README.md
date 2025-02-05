@@ -1,7 +1,7 @@
 # LEE CHAN YOUNG
 
 # Skills ✨
-### Laguages
+### Laguages & Platforms
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
